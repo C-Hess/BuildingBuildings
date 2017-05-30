@@ -1,3 +1,3 @@
-Type: ELEMENTARY SCHOOL
+Type: FPD Building
 
 Source: 
